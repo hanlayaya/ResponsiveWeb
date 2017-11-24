@@ -1,0 +1,4 @@
+搜索引擎，给机器、爬虫看的
+按照此内容搜索范围
+User-agent: *
+Disallow: /admin/
